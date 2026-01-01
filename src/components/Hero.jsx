@@ -100,7 +100,7 @@ useLayoutEffect(() => {
         start: "20% 100%",
         end: "50% 60%",
         scrub: true,
-        markers: true,
+        
       },
     });
     tl2.from("#frogfrog",
